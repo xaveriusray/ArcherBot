@@ -137,7 +137,7 @@ conn.logger.level = 'debug'
 
 ---------
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
+<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ariffb25) | [![Fernazer](https://github.com/Fernazer.png?size=100)](https://github.com/Ftwrr) 
 ----|----|----|----
 [XTEAM](https://api.xteam.xyz/) | [Nurutomo](https://github.com/Nurutomo) | [ZeroChanBot](https://github.com/ZeroChanBot) | [Fernazer](https://github.com/Fernazer)
 Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
